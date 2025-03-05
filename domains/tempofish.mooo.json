@@ -1,0 +1,17 @@
+{
+    "description": "TempoFish",
+    "domain": "mooo.com",
+    "subdomain": "tempofish.mooo.com",
+
+    "owner": {
+        "repo": "https://github.com/orochi85/tempofishv1",
+        "email": "tempofish@gmail.com"
+    },
+
+    "record": {
+        "A": ["179.197.175.159"],
+    
+    },
+
+    "proxied": false
+}
